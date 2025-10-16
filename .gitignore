@@ -1,0 +1,43 @@
+# React Native / Expo
+NotesApp/node_modules/
+NotesApp/.expo/
+NotesApp/.expo-shared/
+NotesApp/npm-debug.*
+NotesApp/*.jks
+NotesApp/*.p8
+NotesApp/*.p12
+NotesApp/*.key
+NotesApp/*.mobileprovision
+NotesApp/*.orig.*
+NotesApp/web-build/
+NotesApp/dist/
+
+# Flutter
+notes_app/.dart_tool/
+notes_app/.flutter-plugins
+notes_app/.flutter-plugins-dependencies
+notes_app/.packages
+notes_app/.pub-cache/
+notes_app/.pub/
+notes_app/build/
+notes_app/linux/flutter/ephemeral/
+notes_app/macos/Flutter/ephemeral/
+notes_app/windows/flutter/ephemeral/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+Thumbs.db
+.DS_Store
